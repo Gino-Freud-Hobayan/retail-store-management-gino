@@ -92,17 +92,68 @@ This includes all the products in my Retail Store.
 
 <br><br>
 <br><br>
+<br><br>
 
 
 
 
+## Sample Program flow:
+
+<br>
 
 
 <details>
   <summary>Click to view</summary>
 
+<br>
 
-insert here 2
+
+```
+
+=============================================
+    Gino H. Retail Store Management System
+=============================================
+1. Purchase Order
+2. Manage Inventory
+3. Exit
+Enter choice: 1
+
+
+
+List of Products:
+1. Keyboard - price: 500, stock: 5
+2. Mouse - price: 200, stock: 10
+...
+
+
+Select Product ID: 5
+Enter Quantity: 1
+Add more? (y/n): n
+
+
+
+Enter Name: John Doe
+Enter Email: john@example.com
+Enter Phone Number: 09171234567
+Enter Address: 123 Street, City
+Payment Method (1=COD,2=GCash,3=Bank): 1
+Enter Account Number: 12345678
+Enter Account Name: John Doe
+Shipping Method (1=Door-to-Door,2=Pick-up): 1
+
+
+
+Order Confirmation:
+Customer Name: John Doe
+Grand Total: 7500
+Payment Method: COD
+Shipping: DOOR_TO_DOOR
+Order Successfully Placed!
+
+
+```
+
+
 
 
 </details>
@@ -199,7 +250,8 @@ This was nice to know
 
 
 
-
+<br><br><br>
+<br><br><br>
 
 
 
