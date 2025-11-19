@@ -47,7 +47,7 @@ My Project can do the following:
 
 
 
-## Product Details TABLE:
+## Inventory
 
 balanced_tree.product_details includes all information about the entire range that Balanced Clothing sells in their store.
 
