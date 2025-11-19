@@ -99,8 +99,6 @@ This includes all the products in my Retail Store.
 
 ## Sample Program flow:
 
-<br>
-
 
 <details>
   <summary>Click to view</summary>
