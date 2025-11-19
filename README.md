@@ -17,7 +17,7 @@
 
 
 
-I created a Retail Store Management System that ......
+I created a Retail Store Management System using the _____ programming language that ......
 
 
 
