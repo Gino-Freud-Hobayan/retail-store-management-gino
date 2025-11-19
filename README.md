@@ -1,6 +1,6 @@
 # Retail Store Management System
 
-### CIIT - Computer Programming 1
+### CIIT - Computer Programming 1 (CS102 - 3)
 
 
 ### Professor: Sir Rob Asino
@@ -17,12 +17,24 @@
 
 
 Hi!
-I'm Gino Freud D. Hobayan, a first year computer science student at CIIT College of Arts and Technology
+I'm Gino Freud D. Hobayan, a first year computer science student at CIIT College of Arts and Technology.
 
 
-I created the "Gino H. Retail Store Management System" using the _____ programming language that ......
+
+I created the <b> "Gino H. Retail Store Management System" </b> using the _____ programming language that ......
+
+I was able to learn a lot about the C++ Programming Language while making this project and that makes me proud as I am able to add the C++ Programming Language to my Tech Stack,
+and hopefully I can use my knowledge to solve other problems in the near future.
+
+<br>
 
 
+My Project can do the following:
+- Purchase Order
+- Manage Inventory
+- Exit (For check out)
+- Order Confirmation (with different modes of payment like Gcash, Cash on Delivery (COD), and Bank Transfer)
+- 
 
 
 
@@ -78,6 +90,29 @@ insert here 2
 
 
 
+
+
+
+
+<br><br>
+<br><br>
+
+
+
+
+highlight some important code here:
+
+
+## High Level Sales Analysis:
+
+```cpp
+
+
+
+
+
+
+```
 
 
 
