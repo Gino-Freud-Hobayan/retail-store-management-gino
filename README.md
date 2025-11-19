@@ -49,13 +49,21 @@ My Project can do the following:
 
 ## Inventory
 
-balanced_tree.product_details includes all information about the entire range that Balanced Clothing sells in their store.
+This includes all the products in my Retail Store.
 
 <details>
   <summary>Click to view</summary>
 
 
-insert here
+List of Products:
+
+1. Keyboard - price: 500php, stock: 5
+
+2. Mouse - price: 200php, stock: 10
+
+3. ...
+
+4. 
 
 
 </details>
@@ -107,7 +115,7 @@ There were a few notable parts of the code that stood out to me, that's why I'm 
 
 ## High Level Sales Analysis:
 
-It was my first time learning
+It was my first time learning about this
 
 ```cpp
 
@@ -121,6 +129,48 @@ It was my first time learning
 
 
 
+
+
+
+<br><br><br>
+
+
+
+## aaaaa
+
+This was nice to know
+
+```cpp
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+<br><br><br>
+
+
+
+## bbbbbb
+
+This was nice to know
+
+```cpp
+
+
+
+
+
+
+```
 
 
 
