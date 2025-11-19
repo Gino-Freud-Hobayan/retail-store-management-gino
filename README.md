@@ -33,10 +33,10 @@ I'm <b> Gino Freud D. Hobayan </b> , a first year computer science student at CI
 
 
 
-I created the <b> "Gino H. Retail Store Management System" </b> using the _____ programming language that ......
+I created the <b> "Gino H. Retail Store Management System" </b> using the _____ programming language
 
 I was able to learn a lot about the C++ Programming Language while making this project and that makes me proud as I am able to add the C++ Programming Language to my Tech Stack,
-and hopefully I can use my knowledge to solve other problems in the near future.
+and hopefully I can use my knowledge on this tool to solve various problems in the near future.
 
 <br>
 
@@ -70,6 +70,8 @@ This includes all the products in my Retail Store.
 
 
 <b> List of Products: </b>
+
+- Sorted by price - Highest to lowest
 
 
 | ID | Product Name                          | Price (PHP) | Stock |
