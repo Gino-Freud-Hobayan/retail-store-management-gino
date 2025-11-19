@@ -35,7 +35,7 @@ I'm <b> Gino Freud D. Hobayan </b> , a first year computer science student at CI
 
 I created the <b> "Gino H. Retail Store Management System" </b> using the _____ programming language
 
-I was able to learn a lot about the C++ Programming Language while making this project and that makes me proud as I am able to add the C++ Programming Language to my Tech Stack,
+I was able to learn a lot about the ___ Programming Language while making this project and that makes me proud as I am able to add the ___ Programming Language to my Tech Stack,
 and hopefully I can use my knowledge on this tool to solve various problems in the near future.
 
 <br>
@@ -46,10 +46,9 @@ My Project simulates a Retail Store Management System with the following:
 - Orders
 - Inventory
 - Cart system
-- Payment & shipping options
+- Payment & shipping options (with different modes of payment like Gcash, Cash on Delivery (COD), and Bank Transfer)
 - Confirmation screen with loading animation
-- Order Confirmation (with different modes of payment like Gcash, Cash on Delivery (COD), and Bank Transfer)
-- 
+- Order Confirmation 
 
 
 
@@ -138,9 +137,9 @@ There were a few notable parts of the code that stood out to me, that's why I'm 
 
 
 
-## High Level Sales Analysis:
+## 1111111111
 
-It was my first time learning about this
+It was my first time learning about this, and it was quite interesting
 
 ```cpp
 
