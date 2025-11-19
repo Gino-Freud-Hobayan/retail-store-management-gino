@@ -16,6 +16,18 @@
 <br><br>
 
 
+
+CURRENTLY PRIVATE - CHANGE TO PUBLIC WHEN SUBMITTING
+
+Insert hi there here
+
+<br><br>
+<br><br>
+
+
+
+
+
 Hi!
 I'm <b> Gino Freud D. Hobayan </b> , a first year computer science student at CIIT College of Arts and Technology.
 
@@ -29,10 +41,13 @@ and hopefully I can use my knowledge to solve other problems in the near future.
 <br>
 
 
-My Project can do the following:
-- Purchase Order
-- Manage Inventory
-- Exit (For check out)
+My Project simulates a Retail Store Management System with the following:
+- Products
+- Orders
+- Inventory
+- Cart system
+- Payment & shipping options
+- Confirmation screen with loading animation
 - Order Confirmation (with different modes of payment like Gcash, Cash on Delivery (COD), and Bank Transfer)
 - 
 
@@ -51,22 +66,24 @@ My Project can do the following:
 
 This includes all the products in my Retail Store.
 
-<details>
-  <summary>Click to view</summary>
+<br>
 
 
-List of Products:
-
-1. Keyboard - price: 500php, stock: 5
-
-2. Mouse - price: 200php, stock: 10
-
-3. ...
-
-4. 
+<b> List of Products: </b>
 
 
-</details>
+| ID | Product Name                          | Price (PHP) | Stock |
+|----|----------------------------------------|-------------|-------|
+| 9  | Gabe Cube: Steam Machine (Computer)    | 50,000      | 5     |
+| 6  | Laptop                                 | 40,000      | 6     |
+| 5  | Monitor (24 inch)                      | 7,500       | 3     |
+| 3  | Headphones                              | 850         | 7     |
+| 7  | Power Bank (10,000mAh)                 | 900         | 12    |
+| 1  | Keyboard                               | 500         | 5     |
+| 4  | USB Flash Drive (32GB)                 | 350         | 15    |
+| 2  | Mouse                                  | 200         | 10    |
+| 8  | HDMI Cable                             | 150         | 20    |
+
 
 
 
@@ -99,11 +116,17 @@ insert here 2
 
 
 
-
+<br><br>
+<br><br>
 
 
 <br><br>
 <br><br>
+
+
+
+
+# Code Highlights:
 
 
 There were a few notable parts of the code that stood out to me, that's why I'm highlighting some of them here:
