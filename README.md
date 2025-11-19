@@ -211,7 +211,7 @@ It was my first time learning about this, and it was quite interesting
 
 ## aaaaa
 
-This was nice to know
+Using the ____ to slow down the release of the result by 1000 miliseconds or 1 second
 
 ```cpp
 
