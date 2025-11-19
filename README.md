@@ -17,7 +17,7 @@
 
 
 Hi!
-I'm Gino Freud D. Hobayan, a first year computer science student at CIIT College of Arts and Technology.
+I'm <b> Gino Freud D. Hobayan </b> , a first year computer science student at CIIT College of Arts and Technology.
 
 
 
@@ -98,12 +98,16 @@ insert here 2
 <br><br>
 
 
+There were a few notable parts of the code that stood out to me, that's why I'm highlighting some of them here:
 
 
-highlight some important code here:
+<br><br><br>
+
 
 
 ## High Level Sales Analysis:
+
+It was my first time learning
 
 ```cpp
 
