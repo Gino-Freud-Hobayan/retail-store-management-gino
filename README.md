@@ -46,9 +46,9 @@ My Project simulates a Retail Store Management System with the following:
 - Orders
 - Inventory
 - Cart system
-- Payment & shipping options (with different modes of payment like Gcash, Cash on Delivery (COD), and Bank Transfer)
+- Payment & shipping options
 - Confirmation screen with loading animation
-- Order Confirmation 
+
 
 
 
