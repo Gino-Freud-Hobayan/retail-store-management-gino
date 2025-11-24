@@ -75,15 +75,15 @@ This includes all the products in my Retail Store.
 
 | ID | Product Name                           | Price (PHP) | Stock |
 |----|----------------------------------------|-------------|-------|
-| 9  | Gabe Cube: Steam Machine (Computer)    | 50,000      | 5     |
-| 6  | Laptop                                 | 40,000      | 6     |
-| 5  | Monitor (24 inch)                      | 7,500       | 3     |
-| 3  | Headphones                             | 850         | 7     |
-| 7  | Power Bank (10,000mAh)                 | 900         | 12    |
 | 1  | Keyboard                               | 500         | 5     |
-| 4  | USB Flash Drive (32GB)                 | 350         | 15    |
 | 2  | Mouse                                  | 200         | 10    |
+| 3  | Headphones                             | 850         | 7     |
+| 4  | USB Flash Drive (32GB)                 | 350         | 15    |
+| 5  | Monitor (24 inch)                      | 7,500       | 3     |
+| 6  | Laptop                                 | 40,000      | 6     |
+| 7  | Power Bank (10,000mAh)                 | 900         | 12    |
 | 8  | HDMI Cable                             | 150         | 20    |
+| 9  | Gabe Cube: Steam Machine (Computer)    | 50,000      | 5     |
 
 
 
