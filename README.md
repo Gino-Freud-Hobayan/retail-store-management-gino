@@ -70,8 +70,6 @@ This includes all the products in my Retail Store.
 
 <b> List of Products: </b>
 
-- Sorted by price - Highest to lowest
-
 
 | ID | Product Name                           | Price (PHP) | Stock |
 |----|----------------------------------------|-------------|-------|
