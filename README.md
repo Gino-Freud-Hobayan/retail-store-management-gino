@@ -33,9 +33,9 @@ I'm <b> Gino Freud D. Hobayan </b> , a first year computer science student at CI
 
 
 
-I created the <b> "Gino H. Retail Store Management System" </b> using the _____ programming language
+I created the <b> "Gino H. Retail Store Management System" </b> using the Java programming language
 
-I was able to learn a lot about the ___ Programming Language while making this project and that makes me proud as I am able to add the ___ Programming Language to my Tech Stack,
+I was able to learn a lot about the Java Programming Language while making this project and that makes me proud as I am able to add the Java Programming Language to my Tech Stack,
 and hopefully I can use my knowledge on this tool to solve various problems in the near future.
 
 <br>
