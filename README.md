@@ -98,6 +98,9 @@ This includes all the products in my Retail Store.
 ## Sample Program flow:
 
 
+Sample program flow for: Purchase Order
+
+
 <details>
   <summary>Click to view</summary>
 
@@ -150,12 +153,169 @@ Order Successfully Placed!
 ```
 
 
-
-
 </details>
 
 
 
+
+<br><br><br>
+
+
+
+
+Sample program flow for: Inventory Management
+
+<details>
+  <summary>Click to view</summary>
+
+<br>
+
+
+```
+===========================================================
+	Gino H. Retail Store Management System	
+===========================================================
+
+	Select from menu:
+	1. Purchase Order
+	2. Manage Inventory
+	3. Exit
+
+	Enter your choice: 2
+
+
+
+===========================================================
+	Manage Inventory System	
+===========================================================
+
+	1. List Products
+	2. Add New Product
+	3. Adjust Product (Edit/Restock)
+	4. Back to Main Menu
+
+	Enter your choice: 1
+
+
+
+===========================================================
+	Current Inventory List	
+===========================================================
+
+	List of Products:
+	1. Keyboard - price: 500.0, stock: 5
+	2. Mouse - price: 200.0, stock: 10
+	3. Headphones - price: 850.0, stock: 7
+	... (rest of items) ...
+	9. Gabe Cube: Steam Machine (Computer) - price: 50000.0, stock: 5
+
+	Press Enter to continue...
+
+
+
+
+===========================================================
+	Manage Inventory System	
+===========================================================
+
+	1. List Products
+	2. Add New Product
+	3. Adjust Product (Edit/Restock)
+	4. Back to Main Menu
+
+	Enter your choice: 2
+
+
+===========================================================
+	Add New Product	
+===========================================================
+
+	Enter Product Name: sample product..1
+	Enter Unit Price: 8500
+	Enter Initial Quantity: 10
+
+	Success! Item added with ID: 10
+	Press Enter to continue...
+
+
+
+
+===========================================================
+	Manage Inventory System	
+===========================================================
+
+	1. List Products
+	2. Add New Product
+	3. Adjust Product (Edit/Restock)
+	4. Back to Main Menu
+
+	Enter your choice: 3
+
+
+
+
+===========================================================
+	Adjust Existing Product	
+===========================================================
+
+	List of Products:
+	1. Keyboard - price: 500.0, stock: 5
+    ...
+	10. sample..product 1 - price: 8500.0, stock: 10
+
+	Enter ID of product to adjust: 1
+
+	Selected: Keyboard
+	1. Update Price
+	2. Restock / Adjust Quantity
+	3. Cancel
+	Choose action: 2
+
+	Current Stock: 5
+	Enter New Total Quantity: 50
+	Quantity updated successfully.
+
+	Press Enter to continue...
+
+
+
+
+
+===========================================================
+	Manage Inventory System	
+===========================================================
+
+	1. List Products
+	2. Add New Product
+	3. Adjust Product (Edit/Restock)
+	4. Back to Main Menu
+
+	Enter your choice: 4
+
+
+
+
+
+
+===========================================================
+	Gino H. Retail Store Management System	
+===========================================================
+
+	Select from menu:
+	1. Purchase Order
+	2. Manage Inventory
+	3. Exit
+
+	Enter your choice:
+
+
+
+```
+
+
+
+
+</details>
 
 
 
