@@ -346,14 +346,48 @@ There were a few notable parts of the code that stood out to me, that's why I'm 
 
 ## Objected Oriented Programming (OOP)
 
-I was able to organize my code into real world objects using "Classes" and "Objects"
+<h3> I was able to organize my code into real world objects using "Classes" and "Objects" </h3>
+<br>
 
-```cpp
+1.) I created separate Classes for Customer, Product, Order, and Inventory.
+<br><br>
+  
+2.) Copy Constructor
+
+Smart Object Copying
+
+There's a logic in the Product class to handle adding items to the cart. 
+<br>
+When a user adds an item, the program doesn't just point to the inventory. 
+<br>
+It creates a fresh copy of that product using a custom constructor: new Product(inventoryProduct, qty).
+
+<br>
+This ensures that changing the quantity in the cart doesn't accidentally mess up the main stock in the inventory.
+
+<br>
+
+
+```java
+
+// 1. The Logic (Inside Product.java)
+
+// "Copy Constructor" to clone an item while setting a specific order quantity
+
+public Product(Product original, int orderedQuantity) {
+    this.id = original.id;
+    this.productName = original.productName;
+    this.unitPrice = original.unitPrice;
+    this.quantity = orderedQuantity; // Uses the user's order amount, not the total stock
+}
 
 
 
+// 2. The Implementation (Inside Main.java)
 
-
+// instead of pointing to the inventory item directly, I create a new independent object
+Product cartItem = new Product(inventoryProduct, qtyChoice);
+order.addToCart(cartItem);
 
 ```
 
@@ -407,7 +441,7 @@ delaying the result to make the program seem more realistic, like it's actually 
 
 This was nice to know
 
-```cpp
+```java
 
 
 
