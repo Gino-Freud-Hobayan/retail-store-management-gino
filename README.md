@@ -344,9 +344,9 @@ There were a few notable parts of the code that stood out to me, that's why I'm 
 
 
 
-## 1111111111
+## Objected Oriented Programming (OOP)
 
-It was my first time learning about this, and it was quite interesting
+I was able to organize my code into real world objects using "Classes" and "Objects"
 
 ```cpp
 
@@ -367,13 +367,26 @@ It was my first time learning about this, and it was quite interesting
 
 
 
-## aaaaa
+## Thread.sleep(1000)
 
-Using the ____ to slow down the release of the result by 1000 miliseconds or 1 second
+Using the "Thread.sleep(1000)" to slow down the release of the result by 1000 miliseconds or 1 second.
+<br>
+It was my first time learning about something like this, 
+<br>
+delaying the result to make the program seem more realistic, like it's actually loading.
 
-```cpp
 
+```java
 
+        if (confirm == 'y' || confirm == 'Y') {
+            System.out.print("\n\tProcessing your order");
+            for (int i = 0; i < 3; i++) {
+                try {
+                    Thread.sleep(1000);
+                    System.out.print(".");
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
 
 
 
