@@ -363,6 +363,7 @@ When a user adds an item, the program doesn't just point to the inventory.
 It creates a fresh copy of that product using a custom constructor: new Product(inventoryProduct, qty).
 
 <br>
+
 This ensures that changing the quantity in the cart doesn't accidentally mess up the main stock in the inventory.
 
 <br>
