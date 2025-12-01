@@ -17,9 +17,7 @@
 
 
 
-CURRENTLY PRIVATE - CHANGE TO PUBLIC WHEN SUBMITTING
 
-Insert hi there here
 
 <br><br>
 <br><br>
