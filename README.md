@@ -126,8 +126,6 @@ Enter Email: john@example.com
 Enter Phone Number: 09171234567
 Enter Address: 123 Street, City
 Payment Method (1=COD,2=GCash,3=Bank): 1
-Enter Account Number: 12345678
-Enter Account Name: John Doe
 Shipping Method (1=Door-to-Door,2=Pick-up): 1
 
 
