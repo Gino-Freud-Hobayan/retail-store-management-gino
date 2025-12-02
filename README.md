@@ -340,6 +340,8 @@ There were a few notable parts of the code that stood out to me, that's why I'm 
 <br><br>
 
  <b>Modularity </b> - Instead of putting all of that logic inside main.java, they're put in separate classes.
+
+ Much easier to read and troubleshoot, since they're in different sections instead of one big chunk of code.
  
 <br>
 
