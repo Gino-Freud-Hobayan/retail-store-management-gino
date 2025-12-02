@@ -18,7 +18,7 @@ class Customer {
     
     //Constructors
     public Customer() {
-        //empty
+        //this part should be empty
     }
 
     public Customer(String name, String email, String phoneNumber, String address) {
@@ -30,7 +30,7 @@ class Customer {
     
 
 
-    //Accessors
+    // Accessors - get
     public String getName() {
         return name;
     }
@@ -46,7 +46,7 @@ class Customer {
     
 
 
-    //Mutators
+    // Mutators - set
     public void setName(String name) {
         this.name = name;
     }
@@ -59,7 +59,9 @@ class Customer {
     public void setAddress(String address) {
         this.address = address;
     }
-}
+}       // end of class customer
+
+
 
 
 
@@ -145,6 +147,7 @@ class Order {
 
 
 
+
 class Inventory {
     ArrayList<Product> products = new ArrayList<Product>();
     
@@ -169,6 +172,7 @@ class Inventory {
         this.products.add(product);
     }
 }
+
 
 
 
@@ -199,6 +203,7 @@ class Product {
         this.id = original.id;
         this.productName = original.productName;
         this.unitPrice = original.unitPrice;
+
         // The quantity in the cart is the ordered quantity, NOT the stock.
         this.quantity = orderedQuantity; 
     }
@@ -219,7 +224,7 @@ class Product {
 
 
 
-    //Accessors
+    //Accessors - get
     public int getId() {
         return id;
     }
@@ -233,7 +238,7 @@ class Product {
         return quantity;
     }
     
-    //Mutators
+    //Mutators - set
     public void setId(int id) {
         this.id = id;
     }
@@ -299,7 +304,7 @@ static void InitializeProductList() {
     
     static void displayInventory() {
         ArrayList<Product> products = inventory.getInventory();
-        System.out.println("\tList of Products:");
+        System.out.println("\tView the List of Products:");
         for (Product item: products) {
             System.out.println("\t" + item.getId() + ". " + item.getProductName() + " - price: " + item.getUnitPrice() + ", stock: " + item.getQuantity());
         }
@@ -341,7 +346,7 @@ static void InitializeProductList() {
         System.out.print("\tSelect Payment Method: \n");
         System.out.print("\t\t1. Cash on Delivery\n\t\t2. GCash\n\t\t3. Bank Transfer\n\t\tEnter Choice: ");
 
-        // FIX: Define and use paymentChoice here
+        // Define and use paymentChoice here
         int paymentChoice = scanner.nextInt(); 
         order.setPaymentMethod(paymentChoice);
 
@@ -501,7 +506,10 @@ static void addItemToCart(Scanner scanner) {
 
 
 
-// For 2. Inventory Management //
+
+
+
+//     2. Inventory Management       //
 
 
     static void inventoryMenu(Scanner scanner) {
@@ -511,7 +519,7 @@ static void addItemToCart(Scanner scanner) {
             System.out.println("===========================================================");
             System.out.println("\tManage Inventory System\t");
             System.out.println("===========================================================\n");
-            System.out.println("\t1. List Products");
+            System.out.println("\t1. View the Product List");
             System.out.println("\t2. Add New Product");
             System.out.println("\t3. Adjust Product (Edit/Restock)");
             System.out.println("\t4. Back to Main Menu\n");
