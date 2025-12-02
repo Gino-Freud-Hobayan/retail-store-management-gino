@@ -334,7 +334,6 @@ There were a few notable parts of the code that stood out to me, that's why I'm 
 
 ## Objected Oriented Programming (OOP)
 
-<h3> I was able to organize my code into real world objects using "Classes" and "Objects" </h3>
 <br>
 
 1.) Separate Classes for Customer, Product, Order, and Inventory.
