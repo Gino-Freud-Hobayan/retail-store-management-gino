@@ -341,7 +341,7 @@ There were a few notable parts of the code that stood out to me, that's why I'm 
 
  <b>Modularity </b> - Instead of putting all of that logic inside main.java, they're put in separate classes.
  
-<br><br>
+<br>
 
 <b>Encapsulation </b> - "price" variable is private inside Product.java, hiding the data and controlling how it's accessed.
 
