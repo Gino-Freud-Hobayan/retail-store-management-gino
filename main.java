@@ -10,6 +10,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
 class Customer {
     private String name;
     private String email;
