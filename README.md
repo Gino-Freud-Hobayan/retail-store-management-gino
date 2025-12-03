@@ -1,4 +1,4 @@
-# Retail Store Management System
+# Retail Store Management System 
 
 ### CIIT - Computer Programming 1 (CS102 - 3)
 
@@ -10,6 +10,10 @@
 
 
 ### Section: Tech 01
+
+
+
+### Programming Language: Java
 
 
 <br><br>
@@ -52,11 +56,6 @@ My Project simulates a Retail Store Management System with the following:
 
 
 ## Inventory
-
-This includes all the products in my Retail Store.
-
-<br>
-
 
 <b> List of Products: </b>
 
