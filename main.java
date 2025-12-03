@@ -11,10 +11,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class Customer {
-    String name;
-    String email;
-    String phoneNumber;
-    String address;
+    private String name;
+    private String email;
+    private String phoneNumber;
+    private String address;
     
     //Constructors
     public Customer() {
@@ -67,12 +67,12 @@ class Customer {
 
 
 class Order {
-    ArrayList<Product> cartItems = new ArrayList<Product>();
-    float grandTotal = 0;
-    String paymentMethod;
-    String paymentAccountNumber;
-    String paymentAccountName;
-    String shippingMethod;
+    private ArrayList<Product> cartItems = new ArrayList<Product>();
+    private float grandTotal = 0;
+    private String paymentMethod;
+    private String paymentAccountNumber;
+    private String paymentAccountName;
+    private String shippingMethod;
     
     public void addToCart(Product product) {
         this.grandTotal += product.getUnitPrice() * product.getQuantity();
@@ -159,7 +159,7 @@ class Inventory {
         Product foundItem = null;
         
         for (Product item: products) {
-            if (item.id == id) {
+            if (item.getId() == id) {    // Use the public key (getter)
                 foundItem = item;
                 break;
             }
@@ -178,11 +178,11 @@ class Inventory {
 
 
 class Product {
-    static int ctr = 1;
-    int id;
-    String productName;
-    float unitPrice;
-    int quantity;
+    private static int ctr = 1;
+    private int id;
+    private String productName;
+    private float unitPrice;
+    private int quantity;
     
     //Constructors
     public Product() {
