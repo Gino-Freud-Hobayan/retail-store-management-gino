@@ -57,11 +57,6 @@ My Project simulates a Retail Store Management System with the following:
 
 ## Inventory
 
-This includes all the products in my Retail Store.
-
-<br>
-
-
 <b> List of Products: </b>
 
 
